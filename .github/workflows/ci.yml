@@ -33,4 +33,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/ryguy101/PillSight:latest
+            ghcr.io/ryguy101/pillsight:latest
